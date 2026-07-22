@@ -22,7 +22,7 @@ origins = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
     "http://localhost:3000",
-    "https://face-tracer-frontend.vercel.app"
+    "https://face-tracer-frontend.vercel.app",
     "*"
 ]
 
